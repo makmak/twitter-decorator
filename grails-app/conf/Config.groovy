@@ -1,4 +1,3 @@
-
 // locations to search for config files that get merged into the main config
 // config files can either be Java properties files or ConfigSlurper scripts
 
@@ -93,11 +92,6 @@ log4j = {
 //Javascript library used
 grails.views.javascript.library="jquery"
 
-//twitter info
-oauth.twitter.consumerKey="zE0k0lF3E9mGrrTnZ5G0eQ"
-oauth.twitter.consumerSecret="fwHyH7hYt0BVmMaMk2CiIM9T3fUuNdQW6Z99x5QGes8"
-oauth.twitter.accessToken="39731334-sKS5QYsTDkV40qJUs1AG8t5V7y3Cf88RD1SUssagu"
-oauth.twitter.accessTokenSecret="8nNAky9QGFiS8LyqdOb6urbim7tDzMiZOqknGh8"
 
 // Added by the Spring Security Core plugin:
 grails.plugins.springsecurity.userLookup.userDomainClassName="info.makmak.User"
